@@ -1,0 +1,7 @@
+.content-dino {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+    line-height: 20px;
+    margin-bottom: var(--gap-small);
+}

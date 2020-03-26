@@ -1,0 +1,16 @@
+@import './settings/gaps.css';
+@import './settings/colors.css';
+
+@import './reset.css';
+
+@import './elements/base.css';
+@import './elements/titles.css';
+
+@import './components/title-dino.css';
+@import './components/subtitle-dino.css';
+@import './components/content-dino.css';
+@import './components/list-dino.css';
+@import './components/separator-dino.css';
+
+
+

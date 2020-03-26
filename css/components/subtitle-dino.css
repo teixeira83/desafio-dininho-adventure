@@ -1,0 +1,6 @@
+.subtitle-dino {
+    font-size: 26px;
+    line-height: 26px;
+    font-family: 'Bungee', cursive;
+    margin-bottom: var(--gap-small);
+}
