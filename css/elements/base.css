@@ -8,17 +8,6 @@ body {
     font-family: 'Nunito', sans-serif;
     color: #73263D;
     font-weight: bold;
-}
-
-dd {
-    color: #3D1132;
-    font-size: 15px;
+    font-style: 15px;
     line-height: 20px;
-}
-
-footer {
-    color: #050914;
-    font-size: 12px;
-    line-height: 16px;
-    text-align: center;
 }

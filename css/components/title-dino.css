@@ -3,6 +3,6 @@
     line-height: 36px;
     color: #FCFDFC;
     font-family: 'Bungee', cursive;
-    margin-top: var(--gap-medium);
-    margin-bottom: var(--gap-medium);
+    margin-top: var(--gap-big);
+    margin-bottom: var(--gap-big);
 }
